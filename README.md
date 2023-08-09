@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.duggalitech.com/wp-content/uploads/2020/07/PHP-Web-Development-2.jpg">
+<img align="right" alt="Coding" width="400" src="[https://www.duggalitech.com/wp-content/uploads/2020/07/PHP-Web-Development-2.jpg](https://th.bing.com/th/id/R.cfb4262d0a1c670f3ea17c37c88cd767?rik=TZtdmpJZSWwKaA&riu=http%3a%2f%2fwww.linuxeden.com%2fwp-content%2fuploads%2f2023%2f03%2f120324jeqlswqte9exfxhh-1024x576.jpg&ehk=nCxFZb6jTqLu2bMrpaQGlbyCezJHK5ylS2ehCDFrECs%3d&risl=&pid=ImgRaw&r=0)">
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
 
