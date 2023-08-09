@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg=">
+<img align="right" alt="Coding" width="400" src="https://www.etechcomputing.com/wp-content/uploads/2018/03/5-Web-Design-Trends-For-Non-Profits-Small-Businesses.jpg">
 
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
