@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **HTML,CSS,C,C++**
 
 - 💬 Ask me about **HTML**
-- [![MasterHead](https://th.bing.com/th/id/R.a9d016d538c2379ee1d656eebb3bdc86?rik=PAIrrXMF53zgjA&riu=http%3a%2f%2fcdn.lowgif.com%2ffull%2f9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif&ehk=pTJAfjnaFNmQKNDULYDoo9fEQL6pPIXP7MYub7ueqn0%3d&risl=&pid=ImgRaw&r=0)
+- [MasterHead](https://th.bing.com/th/id/R.a9d016d538c2379ee1d656eebb3bdc86?rik=PAIrrXMF53zgjA&riu=http%3a%2f%2fcdn.lowgif.com%2ffull%2f9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif&ehk=pTJAfjnaFNmQKNDULYDoo9fEQL6pPIXP7MYub7ueqn0%3d&risl=&pid=ImgRaw&r=0)
 
 
 <h3 align="left">Connect with me:</h3>
