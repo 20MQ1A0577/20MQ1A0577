@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/000/242/482/small_2x/female-developer.jpg">
+<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/vectors/web-development-flat-illustration-concept-vector-id485116622?k=6&m=485116622&s=612x612&w=0&h=cUcEIxIK6KH9lxSCAB3EQR2P0KTPHDNJL-s9FGqVdSI=">
 
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
