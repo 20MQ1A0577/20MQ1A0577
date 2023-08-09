@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://hnavi.co.jp/_next/image/?url=https:%2F%2Fwordpress.hnavi.co.jp%2Fwp-content%2Fuploads%2F2022%2F09%2F224_programming.jpg&w=1080&q=75">
+<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/1947431.jpg">
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
 
