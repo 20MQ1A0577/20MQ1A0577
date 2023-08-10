@@ -1,4 +1,4 @@
-[MasterHead](https://wallpaperaccess.com/full/1947431.jpg>
+[MasterHead](https://wallpaperaccess.com/full/1947431.jpg)
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
 
