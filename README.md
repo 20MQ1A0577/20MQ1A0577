@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/1947431.jpg)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--hOrxywYF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcmsu4hc6dnwrqwi71ow.png)
 <h1 align="center">Hi 👋, I'm Sri Dhanya Padmanabhuni</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20mq1a0577&label=Profile%20views&color=0e75b6&style=flat" alt="20mq1a0577" /> </p>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
